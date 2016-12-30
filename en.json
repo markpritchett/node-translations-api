@@ -1,0 +1,13 @@
+[
+    {
+        "key": "welcome_message",
+        "value": "This is a totally awesome welcome message!"
+    },
+    {
+        "key": "login_component",
+        "value": {
+            "username": "Username:",
+            "password": "Password:"
+        }
+    }
+]
